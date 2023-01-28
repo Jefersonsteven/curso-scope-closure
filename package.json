@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jefersonsteven/curso-scope-closure/issues"
+  },
+  "homepage": "https://github.com/Jefersonsteven/curso-scope-closure#readme"
 }
